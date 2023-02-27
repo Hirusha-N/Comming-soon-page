@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@leenguyen/react-flip-clock-countdown": "^1.4.0",
+    "react-countdown": "^2.3.5",
+    "react-icons": "^4.7.1"
+  }
+}
